@@ -1,4 +1,4 @@
-a = int(input())
-b = int(input())
+a = int(input("Digite o primeiro número: "))
+b = int(input("Digite o segundo número: "))
 
 print (f"x = {a + b}")
